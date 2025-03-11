@@ -1,5 +1,6 @@
 package com.example.demo;
 //docker 
+//kubernetes
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
